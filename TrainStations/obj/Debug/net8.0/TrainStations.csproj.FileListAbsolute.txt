@@ -1,0 +1,14 @@
+/Users/melamed/Documents/Code/TrainStations/bin/Debug/net8.0/TrainStations
+/Users/melamed/Documents/Code/TrainStations/bin/Debug/net8.0/TrainStations.deps.json
+/Users/melamed/Documents/Code/TrainStations/bin/Debug/net8.0/TrainStations.runtimeconfig.json
+/Users/melamed/Documents/Code/TrainStations/bin/Debug/net8.0/TrainStations.dll
+/Users/melamed/Documents/Code/TrainStations/bin/Debug/net8.0/TrainStations.pdb
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.AssemblyInfoInputs.cache
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.AssemblyInfo.cs
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.csproj.CoreCompileInputs.cache
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.dll
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/refint/TrainStations.dll
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.pdb
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/TrainStations.genruntimeconfig.cache
+/Users/melamed/Documents/Code/TrainStations/obj/Debug/net8.0/ref/TrainStations.dll
